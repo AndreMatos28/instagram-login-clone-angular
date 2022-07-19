@@ -1,3 +1,14 @@
+>>>>>>>>> INSTAGRAM CLONE
+## Projeto clone da pagina do instagram login e cadastro
+
+* Telas login e cadastro
+* Animações (Desenvolvimento)
+* Proteção de rotas (Desenvolvimento)
+ 
+
+![](assets/instagram.png)
+
+
 # IntagramClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
